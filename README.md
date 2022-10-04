@@ -1,7 +1,8 @@
 <h3>Hi! I'm Fico Seitún, a fullstack webdev from Argentina!</h3>
 <hr />
 <h3>About myself</h3>
-<p>const {👨‍👩‍👧‍👧, 🎸, 👨🏽‍🔧,🏃🏽‍♂️, 🚴🏽, 📚, 👨🏽‍💻, 🇦🇷, ❤️} = fico //JS pseudocode</p>
+
+`const {👨‍👩‍👧‍👧, 🎸, 👨🏽‍🔧,🏃🏽‍♂️, 🚴🏽, 📚, 👨🏽‍💻, 🇦🇷, ❤️} = fico //JS pseudocode`
 <br />
 <h3>My yearly stats</h3>
 <div>
