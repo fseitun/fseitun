@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://expressjs.com/">
     <img
-      src="https://www.vectorlogo.zone/logos/express/express-icon.svg"
+      src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle.png"
       alt="Express"
       width="40"
       height="40"
