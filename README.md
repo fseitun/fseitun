@@ -174,7 +174,7 @@
   </a>
   <a href="https://reactnative.dev/">
   <img
-    src="https://reactnative.dev/img/header_logo.svg"
+    src=""
     alt="React Native"
     width="40"
     height="40"
@@ -182,7 +182,7 @@
   </a>
   <a href="https://redux.js.org/">
     <img
-      src="https://www.vectorlogo.zone/logos/redux/redux-icon.svg"
+      src="https://brandslogos.com/wp-content/uploads/images/large/redux-logo.png"
       alt="Redux"
       width="40"
       height="40"
@@ -190,7 +190,7 @@
   </a>
   <a href="https://sass-lang.com/">
     <img
-      src="https://www.vectorlogo.zone/logos/sass/sass-icon.svg"
+      src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png"
       alt="Sass"
       width="40"
       height="40"
